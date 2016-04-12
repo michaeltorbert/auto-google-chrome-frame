@@ -4,7 +4,7 @@ Plugin Name: Auto Google Chrome Frame
 Plugin URI: http://semperfiwebdesign.com/wordpress-plugins/auto-google-chrome-frame/
 Description: Adds Google Chrome frame to website automatically.
 Author: Michael Torbert
-Version: .1
+Version: .2
 Author URI: http://semperfiwebdesign.com/
 */
 
