@@ -1,7 +1,7 @@
 === Auto Google Chrome Frame ===
 Contributors: Hallsofmontezuma
 Donate link: http://example.com/
-Tags: comments, spam
+Tags: google chrome frame, google, chrome, frame
 Requires at least: 2.0.2
 Tested up to: 4.5
 Stable tag: .2
